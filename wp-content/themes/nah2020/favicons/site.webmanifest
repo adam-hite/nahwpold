@@ -1,0 +1,19 @@
+{
+    "name": "NAH",
+    "short_name": "NAH",
+    "icons": [
+        {
+            "src": "/wp-content/themes/nah2020/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/wp-content/themes/nah2020/favicons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#475381",
+    "background_color": "#475381",
+    "display": "standalone"
+}
