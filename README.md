@@ -1,2 +1,2 @@
-# nahwpold
-NAH Wordpress theme with old design from 2020 based on Undercores starter theme
+# NAH Wordpress Theme
+Current NAH Wordpress theme but with old design from 2020 based on Undercores starter theme.
